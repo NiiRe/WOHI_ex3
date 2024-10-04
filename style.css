@@ -2,13 +2,13 @@
 
 
 h1,h2,h3 {
-  color: rgb(225,5,5);
+  color: rgb(201, 56, 245);
   margin-left: 20px;
   text-align: center;
 }
 
 footer {
-  text-align: center;
+  text-align: left;
   padding: 20px;
   width: 100%;
   font-stretch: expanded;
