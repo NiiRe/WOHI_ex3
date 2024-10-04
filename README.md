@@ -1,2 +1,2 @@
-# WOHI_ex3
+# WOHI_ex3 niilor
 Git exercise for class
